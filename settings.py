@@ -9,3 +9,5 @@ PEOPLE = ["tt", "vt", "mt", "qs", "qh", "qt"]
 PROCESSED_FOLDER = "./processed_audio/"
 
 SPECTROGRAM_FOLDER = "./spectrogram/"
+
+FILTER_FOLDER = "./filter_audio/"
