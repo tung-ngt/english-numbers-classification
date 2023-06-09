@@ -11,3 +11,5 @@ PROCESSED_FOLDER = "./processed_audio/"
 SPECTROGRAM_FOLDER = "./spectrogram/"
 
 FILTER_FOLDER = "./filter_audio/"
+
+FINAL_FOLDER = "./final_audio/"
